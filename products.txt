@@ -1,0 +1,11 @@
+[
+  {
+    "title": "pencil",
+    "description": "lorem ipsum",
+    "price": 10,
+    "thumbnail": "pencil.svg",
+    "code": "A1",
+    "stock": 100,
+    "id": 2
+  }
+]
